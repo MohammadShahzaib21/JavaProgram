@@ -1,7 +1,7 @@
 class Test
   {
-     void method()
-        {
-        System.out.println("This is the method of another class");
-      }   
+     String method()
+    {
+      return "This function is from an another class"
+    }
   }
